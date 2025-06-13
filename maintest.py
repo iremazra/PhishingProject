@@ -46,7 +46,7 @@ app = typer.Typer()
 # Download NLTK stopwords (only once)
 nltk.download('stopwords', quiet=True)
 
-#PASSWORD="stxe sisc qfnu zgqk"
+
 # Load credentials from environment variables
 #EMAIL = "arapnecmi2@gmail.com"
 #PASSWORD =  "**** **** **** ****" 
